@@ -1,0 +1,36 @@
+C:\Users\Soban\Downloads\SharedUpgradeWithScaling_Mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\SharedUpgradeWithScaling.deps.json
+C:\Users\Soban\Downloads\SharedUpgradeWithScaling_Mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\SharedUpgradeWithScaling.dll
+C:\Users\Soban\Downloads\SharedUpgradeWithScaling_Mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\SharedUpgradeWithScaling.pdb
+C:\Users\Soban\Downloads\SharedUpgradeWithScaling_Mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\0Harmony.dll
+C:\Users\Soban\Downloads\SharedUpgradeWithScaling_Mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Soban\Downloads\SharedUpgradeWithScaling_Mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\BepInEx.dll
+C:\Users\Soban\Downloads\SharedUpgradeWithScaling_Mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\PhotonRealtime.dll
+C:\Users\Soban\Downloads\SharedUpgradeWithScaling_Mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\PhotonUnityNetworking.dll
+C:\Users\Soban\Downloads\SharedUpgradeWithScaling_Mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Users\Soban\Downloads\SharedUpgradeWithScaling_Mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\UnityEngine.dll
+C:\Users\Soban\Downloads\SharedUpgradeWithScaling_Mod\SharedUpgradeWithScaling\obj\Release\netstandard2.1\SharedUpgradeWithScaling.csproj.AssemblyReference.cache
+C:\Users\Soban\Downloads\SharedUpgradeWithScaling_Mod\SharedUpgradeWithScaling\obj\Release\netstandard2.1\SharedUpgradeWithScaling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soban\Downloads\SharedUpgradeWithScaling_Mod\SharedUpgradeWithScaling\obj\Release\netstandard2.1\SharedUpgradeWithScaling.AssemblyInfoInputs.cache
+C:\Users\Soban\Downloads\SharedUpgradeWithScaling_Mod\SharedUpgradeWithScaling\obj\Release\netstandard2.1\SharedUpgradeWithScaling.AssemblyInfo.cs
+C:\Users\Soban\Downloads\SharedUpgradeWithScaling_Mod\SharedUpgradeWithScaling\obj\Release\netstandard2.1\SharedUpgradeWithScaling.csproj.CoreCompileInputs.cache
+C:\Users\Soban\Downloads\SharedUpgradeWithScaling_Mod\SharedUpgradeWithScaling\obj\Release\netstandard2.1\SharedUp.9467D0E0.Up2Date
+C:\Users\Soban\Downloads\SharedUpgradeWithScaling_Mod\SharedUpgradeWithScaling\obj\Release\netstandard2.1\SharedUpgradeWithScaling.dll
+C:\Users\Soban\Downloads\SharedUpgradeWithScaling_Mod\SharedUpgradeWithScaling\obj\Release\netstandard2.1\SharedUpgradeWithScaling.pdb
+C:\Users\Soban\Downloads\Zmazor repo mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\SharedUpgradeWithScaling.deps.json
+C:\Users\Soban\Downloads\Zmazor repo mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\SharedUpgradeWithScaling.dll
+C:\Users\Soban\Downloads\Zmazor repo mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\SharedUpgradeWithScaling.pdb
+C:\Users\Soban\Downloads\Zmazor repo mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\0Harmony.dll
+C:\Users\Soban\Downloads\Zmazor repo mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Soban\Downloads\Zmazor repo mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\BepInEx.dll
+C:\Users\Soban\Downloads\Zmazor repo mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\PhotonRealtime.dll
+C:\Users\Soban\Downloads\Zmazor repo mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\PhotonUnityNetworking.dll
+C:\Users\Soban\Downloads\Zmazor repo mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Users\Soban\Downloads\Zmazor repo mod\SharedUpgradeWithScaling\bin\Release\netstandard2.1\UnityEngine.dll
+C:\Users\Soban\Downloads\Zmazor repo mod\SharedUpgradeWithScaling\obj\Release\netstandard2.1\SharedUpgradeWithScaling.csproj.AssemblyReference.cache
+C:\Users\Soban\Downloads\Zmazor repo mod\SharedUpgradeWithScaling\obj\Release\netstandard2.1\SharedUpgradeWithScaling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soban\Downloads\Zmazor repo mod\SharedUpgradeWithScaling\obj\Release\netstandard2.1\SharedUpgradeWithScaling.AssemblyInfoInputs.cache
+C:\Users\Soban\Downloads\Zmazor repo mod\SharedUpgradeWithScaling\obj\Release\netstandard2.1\SharedUpgradeWithScaling.AssemblyInfo.cs
+C:\Users\Soban\Downloads\Zmazor repo mod\SharedUpgradeWithScaling\obj\Release\netstandard2.1\SharedUpgradeWithScaling.csproj.CoreCompileInputs.cache
+C:\Users\Soban\Downloads\Zmazor repo mod\SharedUpgradeWithScaling\obj\Release\netstandard2.1\SharedUp.9467D0E0.Up2Date
+C:\Users\Soban\Downloads\Zmazor repo mod\SharedUpgradeWithScaling\obj\Release\netstandard2.1\SharedUpgradeWithScaling.dll
+C:\Users\Soban\Downloads\Zmazor repo mod\SharedUpgradeWithScaling\obj\Release\netstandard2.1\SharedUpgradeWithScaling.pdb

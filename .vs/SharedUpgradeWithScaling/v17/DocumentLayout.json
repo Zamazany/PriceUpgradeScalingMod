@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Soban\\Downloads\\Zmazor repo mod\\SharedUpgradeWithScaling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDB6634-F29C-4BF6-9BCB-4D1B0E21FB33}|SharedUpgradeWithScaling.csproj|c:\\users\\soban\\downloads\\zmazor repo mod\\sharedupgradewithscaling\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDB6634-F29C-4BF6-9BCB-4D1B0E21FB33}|SharedUpgradeWithScaling.csproj|solutionrelative:plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDB6634-F29C-4BF6-9BCB-4D1B0E21FB33}|SharedUpgradeWithScaling.csproj|c:\\users\\soban\\downloads\\zmazor repo mod\\sharedupgradewithscaling\\sharedupgradewithscaling.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BDDB6634-F29C-4BF6-9BCB-4D1B0E21FB33}|SharedUpgradeWithScaling.csproj|solutionrelative:sharedupgradewithscaling.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDB6634-F29C-4BF6-9BCB-4D1B0E21FB33}|SharedUpgradeWithScaling.csproj|c:\\users\\soban\\downloads\\zmazor repo mod\\sharedupgradewithscaling\\scaling.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDDB6634-F29C-4BF6-9BCB-4D1B0E21FB33}|SharedUpgradeWithScaling.csproj|solutionrelative:scaling.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDB6634-F29C-4BF6-9BCB-4D1B0E21FB33}|SharedUpgradeWithScaling.csproj|c:\\users\\soban\\downloads\\zmazor repo mod\\sharedupgradewithscaling\\sharedupgradewithscaling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDDB6634-F29C-4BF6-9BCB-4D1B0E21FB33}|SharedUpgradeWithScaling.csproj|solutionrelative:sharedupgradewithscaling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soban\\Downloads\\Plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SharedUpgradeWithScaling",
+              "DocumentMoniker": "C:\\Users\\Soban\\Downloads\\Zmazor repo mod\\SharedUpgradeWithScaling\\SharedUpgradeWithScaling.csproj",
+              "RelativeDocumentMoniker": "SharedUpgradeWithScaling.csproj",
+              "ToolTip": "C:\\Users\\Soban\\Downloads\\Zmazor repo mod\\SharedUpgradeWithScaling\\SharedUpgradeWithScaling.csproj",
+              "RelativeToolTip": "SharedUpgradeWithScaling.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T08:18:20.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "scaling.json",
+              "DocumentMoniker": "C:\\Users\\Soban\\Downloads\\Zmazor repo mod\\SharedUpgradeWithScaling\\scaling.json",
+              "RelativeDocumentMoniker": "scaling.json",
+              "ToolTip": "C:\\Users\\Soban\\Downloads\\Zmazor repo mod\\SharedUpgradeWithScaling\\scaling.json",
+              "RelativeToolTip": "scaling.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T19:52:41.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Plugin.cs",
+              "DocumentMoniker": "C:\\Users\\Soban\\Downloads\\Plugin.cs",
+              "RelativeDocumentMoniker": "..\\..\\Plugin.cs",
+              "ToolTip": "C:\\Users\\Soban\\Downloads\\Plugin.cs",
+              "RelativeToolTip": "..\\..\\Plugin.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAswGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:08:33.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SharedUpgradeWithScaling.csproj",
+              "DocumentMoniker": "C:\\Users\\Soban\\Downloads\\Zmazor repo mod\\SharedUpgradeWithScaling\\SharedUpgradeWithScaling.csproj",
+              "RelativeDocumentMoniker": "SharedUpgradeWithScaling.csproj",
+              "ToolTip": "C:\\Users\\Soban\\Downloads\\Zmazor repo mod\\SharedUpgradeWithScaling\\SharedUpgradeWithScaling.csproj",
+              "RelativeToolTip": "SharedUpgradeWithScaling.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T17:23:43.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Plugin.cs",
+              "DocumentMoniker": "C:\\Users\\Soban\\Downloads\\Zmazor repo mod\\SharedUpgradeWithScaling\\Plugin.cs",
+              "RelativeDocumentMoniker": "Plugin.cs",
+              "ToolTip": "C:\\Users\\Soban\\Downloads\\Zmazor repo mod\\SharedUpgradeWithScaling\\Plugin.cs",
+              "RelativeToolTip": "Plugin.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAywIMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:18:16.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
