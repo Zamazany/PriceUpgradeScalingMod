@@ -1,0 +1,12 @@
+
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# C# files
+*.cs text diff=csharp
+
+# Unity YAML files
+*.unity merge=unityyamlmerge eol=lf
+*.prefab merge=unityyamlmerge eol=lf
+*.mat merge=unityyamlmerge eol=lf
+*.asset merge=unityyamlmerge eol=lf
