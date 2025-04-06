@@ -8,7 +8,6 @@
 - ✅ Upgrade prices scale based on the number of players.
 - ✅ Upgrades are shared between all players (everyone has the best upgrades from the team).
 - ✅ Simple configuration via `BepInEx/config/PriceUpgradeScaling.cfg`.
-- ✅ Works with Photon (PUN) multiplayer.
 
 ## ⚙️ Formula
 
@@ -36,7 +35,7 @@ price = base * (1 + (3 - 1) * 0.8) = base * 2.6
 1. Build the project in Visual Studio (use .NET Standard 2.1).
 2. Copy the resulting `.dll` (e.g. `PriceUpgradeScaling.dll`) to:
    ```
-   YourGameFolder/BepInEx/plugins/
+   YourThunderStoreFolder/BepInEx/plugins/
    ```
 3. (Optional) Adjust the `PriceScaling` value in:
    ```
@@ -44,14 +43,8 @@ price = base * (1 + (3 - 1) * 0.8) = base * 2.6
    ```
 
 ## 🧪 Usage
-
-- Host a multiplayer game.
-- Buy any upgrades.
 - All players will automatically receive the same upgrades as the strongest member.
-
-## 📜 License
-
-MIT – Do what you want. Credit appreciated but not required.
+- Cost of upgrades is scalable with number of players
 
 ---
 
