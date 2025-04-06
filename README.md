@@ -1,7 +1,7 @@
 
 # PriceUpgradeScalingMod (Zmazor Mod)
 
-> 🎮 A BepInEx mod for Unity-based multiplayer games that synchronizes upgrade prices and balances progression for all players.
+> 🎮 A BepInEx mod for R.E.P.O that synchronizes upgrade prices and balances progression for all players.
 
 ## ✨ Features
 
